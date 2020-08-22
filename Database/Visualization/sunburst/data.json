@@ -1,0 +1,451 @@
+{
+  "name": "GDC Data",
+  "children": [
+    {
+      "name": "Software Engineering",
+      "children": [
+        {
+          "name": "Freshman",
+          "children": [
+            {
+              "name": "Eliza Guest",
+              "value": "1"
+            },
+            {
+              "name": "Jason Thompson",
+              "value": "1"
+            },
+            {
+              "name": "TylerJay Rodgers",
+              "value": "1"
+            },
+            {
+              "name": "Brittany Barr",
+              "value": "1"
+            },
+            {
+              "name": "Lorenzo Mccartney",
+              "value": "1"
+            },
+            {
+              "name": "Osman Wade",
+              "value": "1"
+            },
+            {
+              "name": "Rajveer Briggs",
+              "value": "1"
+            },
+            {
+              "name": "Mathilde Nolan",
+              "value": "1"
+            },
+            {
+              "name": "Jasmine Frederick",
+              "value": "1"
+            },
+            {
+              "name": "Bhavik Elliott",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "name": "Junior",
+          "children": [
+            {
+              "name": "Harvey Leblanc",
+              "value": "1"
+            },
+            {
+              "name": "Colleen Boyce",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "name": "Sophomore",
+          "children": [
+            {
+              "name": "Uzair Nixon",
+              "value": "1"
+            },
+            {
+              "name": "Talha Fowler",
+              "value": "1"
+            },
+            {
+              "name": "Daniella Hudson",
+              "value": "1"
+            },
+            {
+              "name": "RileyJay Villa",
+              "value": "1"
+            },
+            {
+              "name": "Bjorn Martin",
+              "value": "1"
+            },
+            {
+              "name": "Harper Huff",
+              "value": "1"
+            },
+            {
+              "name": "Kerys Wang",
+              "value": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Undeclared",
+      "children": [
+        {
+          "name": "Freshman",
+          "children": [
+            {
+              "name": "Efa Robins",
+              "value": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "children": [
+        {
+          "name": "Freshman",
+          "children": [
+            {
+              "name": "Joe Hayward",
+              "value": "1"
+            },
+            {
+              "name": "Sahar Calvert",
+              "value": "1"
+            },
+            {
+              "name": "Maggie ODoherty",
+              "value": "1"
+            },
+            {
+              "name": "Aqeel Webber",
+              "value": "1"
+            },
+            {
+              "name": "Mikael Summers",
+              "value": "1"
+            },
+            {
+              "name": "Tony Edge",
+              "value": "1"
+            },
+            {
+              "name": "Theia Neale",
+              "value": "1"
+            },
+            {
+              "name": "Athena Weber",
+              "value": "1"
+            },
+            {
+              "name": "Zayyan Ramsey",
+              "value": "1"
+            },
+            {
+              "name": "Mahi Beech",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "name": "Junior",
+          "children": [
+            {
+              "name": "Stefan Mosley",
+              "value": "1"
+            },
+            {
+              "name": "LexiMai Wormald",
+              "value": "1"
+            },
+            {
+              "name": "Myla Zuniga",
+              "value": "1"
+            },
+            {
+              "name": "Jax Hughes",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "name": "Masters",
+          "children": [
+            {
+              "name": "Anayah Conway",
+              "value": "1"
+            },
+            {
+              "name": "Maha Fitzpatrick",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "name": "N/A",
+          "children": [
+            {
+              "name": "Lesley Ridley",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "name": "Senior",
+          "children": [
+            {
+              "name": "Luisa Ventura",
+              "value": "1"
+            },
+            {
+              "name": "Isla Colon",
+              "value": "1"
+            },
+            {
+              "name": "Maleeha Hayward",
+              "value": "1"
+            },
+            {
+              "name": "Kendall Sims",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "name": "Sophomore",
+          "children": [
+            {
+              "name": "Kelsea Monaghan",
+              "value": "1"
+            },
+            {
+              "name": "Waleed Milner",
+              "value": "1"
+            },
+            {
+              "name": "Korben Tanner",
+              "value": "1"
+            },
+            {
+              "name": "Rayhaan Ferrell",
+              "value": "1"
+            },
+            {
+              "name": "Izabel Landry",
+              "value": "1"
+            },
+            {
+              "name": "Rikki OReilly",
+              "value": "1"
+            },
+            {
+              "name": "Siyana Freeman",
+              "value": "1"
+            },
+            {
+              "name": "Cassidy Proctor",
+              "value": "1"
+            },
+            {
+              "name": "Gordon Whittle",
+              "value": "1"
+            },
+            {
+              "name": "Carlie Brady",
+              "value": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electrical Engineering",
+      "children": [
+        {
+          "name": "Freshman",
+          "children": [
+            {
+              "name": "Rudi Bloom",
+              "value": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Computer Engineering",
+      "children": [
+        {
+          "name": "Freshman",
+          "children": [
+            {
+              "name": "Deen Amos",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "name": "Junior",
+          "children": [
+            {
+              "name": "Stephen Mcnamara",
+              "value": "1"
+            },
+            {
+              "name": "Arjan Rodrigues",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "name": "Senior",
+          "children": [
+            {
+              "name": "Morris Cisneros",
+              "value": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chemical Engineering",
+      "children": [
+        {
+          "name": "Freshman",
+          "children": [
+            {
+              "name": "Silas Lynch",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "name": "Junior",
+          "children": [
+            {
+              "name": "JohnJames Wynn",
+              "value": "1"
+            },
+            {
+              "name": "Esther Lyon",
+              "value": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Accounting",
+      "children": [
+        {
+          "name": "Freshman",
+          "children": [
+            {
+              "name": "Abraham Davies",
+              "value": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Architecture",
+      "children": [
+        {
+          "name": "Junior",
+          "children": [
+            {
+              "name": "Ellesha Sosa",
+              "value": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "children": [
+        {
+          "name": "N/A",
+          "children": [
+            {
+              "name": "Shirley Bull",
+              "value": "1"
+            },
+            {
+              "name": "Emillie Dodson",
+              "value": "1"
+            },
+            {
+              "name": "Albert Best",
+              "value": "1"
+            },
+            {
+              "name": "Elly Pitts",
+              "value": "1"
+            },
+            {
+              "name": "Brady Cundall",
+              "value": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Biological Systems Engineering",
+      "children": [
+        {
+          "name": "Sophomore",
+          "children": [
+            {
+              "name": "Sommer Fulton",
+              "value": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Graphic Design",
+      "children": [
+        {
+          "name": "Sophomore",
+          "children": [
+            {
+              "name": "Clinton Roche",
+              "value": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marketing",
+      "children": [
+        {
+          "name": "Sophomore",
+          "children": [
+            {
+              "name": "Karol Stamp",
+              "value": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

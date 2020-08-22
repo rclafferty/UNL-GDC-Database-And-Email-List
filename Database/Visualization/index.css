@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  margin: 3rem 0;
+}
+
+h2, h3 {
+  text-align: center;
+  margin: 0.5rem 0;
+}
+
+.directory {
+  width: 90%;
+  margin: 0 5%;
+  display: grid;
+  grid-template-columns: repeat(2, 45%);
+  grid-column-gap: 5%;
+  grid-row-gap: 10rem;
+}
+.directory_link {
+  magrin: 0 auto;
+}
+.directory_link img {
+  width: 100%;
+}

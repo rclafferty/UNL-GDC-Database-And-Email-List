@@ -1,0 +1,143 @@
+date,industry,unemployed
+2018-09-16,Computer Science,5
+2018-09-16,Computer Engineering,1
+2018-09-23,Computer Science,5
+2018-09-23,Computer Engineering,1
+2018-09-23,Architecture,1
+2018-10-21,Computer Science,8
+2018-10-21,Computer Engineering,1
+2018-10-21,Software Engineering,4
+2018-10-21,Chemical Engineering,1
+2018-10-21,N/A,2
+2018-10-28,Computer Science,5
+2018-10-28,Computer Engineering,1
+2018-10-28,Software Engineering,3
+2018-10-28,Chemical Engineering,2
+2018-10-28,N/A,1
+2018-11-04,Computer Science,3
+2018-11-04,Computer Engineering,1
+2018-11-04,Architecture,1
+2018-11-04,Software Engineering,1
+2018-11-04,Chemical Engineering,1
+2018-11-11,Computer Engineering,1
+2018-11-11,Software Engineering,2
+2018-11-11,Chemical Engineering,2
+2018-11-11,Architecture,1
+2018-11-11,Computer Science,2
+2018-11-18,Computer Science,3
+2018-11-18,Computer Engineering,1
+2018-11-18,Architecture,1
+2018-11-18,Software Engineering,1
+2018-12-02,Computer Engineering,1
+2018-12-02,Computer Science,1
+2018-12-09,Computer Science,3
+2018-12-09,Computer Engineering,1
+2018-12-09,Architecture,1
+2018-12-09,Software Engineering,1
+2019-01-13,Computer Science,3
+2019-01-13,Computer Engineering,1
+2019-01-13,Biological Systems Engineering,1
+2019-01-13,Architecture,1
+2019-01-13,Software Engineering,1
+2019-01-27,Computer Science,6
+2019-01-27,Computer Engineering,1
+2019-01-27,Software Engineering,6
+2019-01-27,Biological Systems Engineering,1
+2019-01-27,Graphic Design,1
+2019-01-27,Marketing,1
+2019-02-03,Computer Science,6
+2019-02-03,Computer Engineering,1
+2019-02-03,Biological Systems Engineering,1
+2019-02-03,Architecture,1
+2019-02-03,Graphic Design,1
+2019-02-17,Computer Science,7
+2019-02-17,Computer Engineering,1
+2019-02-17,Software Engineering,2
+2019-02-17,Biological Systems Engineering,1
+2019-02-17,Architecture,1
+2019-02-17,Graphic Design,1
+2019-03-03,Computer Science,5
+2019-03-03,Computer Engineering,1
+2019-03-03,Software Engineering,2
+2019-03-03,Graphic Design,1
+2019-03-03,Marketing,1
+2019-03-10,Computer Science,3
+2019-03-10,Software Engineering,1
+2019-03-10,Biological Systems Engineering,1
+2019-03-10,Graphic Design,1
+2019-03-10,Marketing,1
+2019-03-10,N/A,2
+2019-03-24,Computer Science,2
+2019-03-31,Computer Science,4
+2019-03-31,Computer Engineering,1
+2019-03-31,Graphic Design,1
+2019-03-31,Marketing,1
+2019-04-07,Computer Engineering,1
+2019-04-07,Software Engineering,1
+2019-04-07,Computer Science,1
+2019-04-07,Graphic Design,1
+2019-04-14,Computer Science,2
+2019-04-14,Computer Engineering,1
+2019-04-14,Software Engineering,1
+2019-04-14,Biological Systems Engineering,1
+2019-04-14,Architecture,1
+2019-04-14,Marketing,1
+2019-04-28,Computer Science,4
+2019-04-28,Computer Engineering,1
+2019-04-28,Software Engineering,1
+2019-04-28,Biological Systems Engineering,1
+2019-04-28,Architecture,1
+2019-04-28,Graphic Design,1
+2019-04-28,Marketing,1
+2019-09-08,Computer Science,8
+2019-09-08,Computer Engineering,2
+2019-09-08,Software Engineering,6
+2019-09-08,Biological Systems Engineering,1
+2019-09-08,N/A,1
+2019-09-15,Computer Science,6
+2019-09-15,Computer Engineering,3
+2019-09-15,Software Engineering,7
+2019-09-15,Biological Systems Engineering,1
+2019-09-22,Computer Engineering,1
+2019-09-22,Software Engineering,7
+2019-09-22,Undeclared,1
+2019-09-22,Computer Science,3
+2019-09-22,Chemical Engineering,1
+2019-09-29,Computer Science,5
+2019-09-29,Software Engineering,4
+2019-09-29,Biological Systems Engineering,1
+2019-09-29,Undeclared,1
+2019-09-29,Chemical Engineering,1
+2019-09-29,Computer Engineering,1
+2019-10-06,Computer Engineering,2
+2019-10-06,Software Engineering,10
+2019-10-06,Chemical Engineering,1
+2019-10-06,Undeclared,1
+2019-10-06,Computer Science,3
+2019-10-13,Computer Science,9
+2019-10-13,Computer Engineering,1
+2019-10-13,Software Engineering,9
+2019-10-13,Biological Systems Engineering,1
+2019-10-13,Chemical Engineering,1
+2019-10-13,Undeclared,1
+2019-10-27,Computer Science,8
+2019-10-27,Computer Engineering,1
+2019-10-27,Software Engineering,3
+2019-10-27,Undeclared,1
+2019-11-03,Computer Science,6
+2019-11-03,Computer Engineering,1
+2019-11-03,Software Engineering,6
+2019-11-03,Biological Systems Engineering,1
+2019-11-03,Chemical Engineering,1
+2019-11-03,Undeclared,1
+2019-11-10,Computer Science,6
+2019-11-10,Computer Engineering,1
+2019-11-10,Undeclared,1
+2019-11-10,Software Engineering,5
+2019-11-10,Accounting,1
+2019-11-17,Computer Science,7
+2019-11-17,Computer Engineering,1
+2019-11-17,Software Engineering,5
+2019-11-17,Biological Systems Engineering,1
+2019-11-17,Undeclared,1
+2019-11-17,Accounting,1

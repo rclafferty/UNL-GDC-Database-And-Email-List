@@ -1,0 +1,14 @@
+{
+  "name": "@rclafferty/zoomable-circle-packing",
+  "main": "bd854685fdaf5c36@184.js",
+  "version": "184.0.0",
+  "homepage": "https://observablehq.com/@rclafferty/zoomable-circle-packing",
+  "author": {
+    "name": "Robert Lafferty",
+    "url": "https://observablehq.com/@rclafferty"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>Zoomable Sunburst</title>
+    <link rel="stylesheet" type="text/css" href="./inspector2.css">
+</head>
+<body>
+    <div class="navbar">
+        <p><a href="../inline-labels/index.html">Line Graph</a></p>
+        <p><a href="../circle-packing/">Circle Packing</a></p>
+        <p><a href="../sunburst/index.html">Sunburst</a></p>
+        <!-- <p><a href="../normalized-stacked-area/index.html">Stacked Area Graph</a></p> -->
+        <p><a href="../pieandbar/pieandbar_updated.html">Pie & Bar Chart</a></p>
+    </div>
+</body>
+<footer>
+    <script type="module">
+
+    import define from "./index.js";
+    import {Runtime, Library, Inspector} from "./runtime.js";
+
+    const runtime = new Runtime();
+    const main = runtime.module(define, Inspector.into(document.body));
+
+    </script>
+</footer>

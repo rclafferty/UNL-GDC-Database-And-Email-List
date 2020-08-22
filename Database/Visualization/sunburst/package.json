@@ -1,0 +1,14 @@
+{
+  "name": "@rclafferty/zoomable-sunburst",
+  "main": "ccd73210ec1e16e7@348.js",
+  "version": "348.0.0",
+  "homepage": "https://observablehq.com/@rclafferty/zoomable-sunburst",
+  "author": {
+    "name": "Robert Lafferty",
+    "url": "https://observablehq.com/@rclafferty"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

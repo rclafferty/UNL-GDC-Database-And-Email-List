@@ -1,0 +1,24 @@
+# Ignore cache files
+*/.vscode/
+*/.sass-cache
+
+# Ignore built files
+*.class
+
+# Ignore the backup folder
+*/Backup/
+
+# Ignore any real personally identifiable data
+*/RealData/
+
+# Ignore any login files
+*/userInfo.txt
+*/twitterInfo*
+*/databaseInfo*
+
+# Exceptions for login files
+!*/twitterInfo_template.txt
+!*/databaseInfo_template.txt
+
+# Ignore test files
+*/specific_emails.txt

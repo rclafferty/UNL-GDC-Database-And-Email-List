@@ -1,0 +1,79 @@
+@import ../navbar
+    
+*
+    margin: 0
+    padding: 0
+    
+\:root
+    --syntax_normal: #1B1E23
+    --syntax_comment: #A9B0BC
+    --syntax_number: #20A5BA
+    --syntax_keyword: #C30771
+    --syntax_atom: #10A778
+    --syntax_string: #008EC4
+    --syntax_error: #FFBEDC
+    --syntax_unknown_variable: #838383
+    --syntax_matchbracket: #20BBFC
+    --syntax_key: #6636b4
+    --mono_fonts: 82% / 1.5 Menlo, Consolas, monospace
+
+body
+    background-color: rgb(163, 245, 207)
+
+.observablehq
+    margin: 0 20%
+
+    &--collapsed, &--expanded, &--function &--gray, &--import, &--string:before, &--string:after
+        color: var(--syntax_normal)
+
+    &--collapsed, &--inspect a
+        cursor: pointer
+    
+    &--field
+        text-indent: -1rem
+        margin-left: 1rem
+
+    &--empty
+        color: var(--syntax_comment)
+
+    &--blue, &--keyword
+        color: #3182BD
+
+    &--forbidden, &--pink
+        color: #e377c2
+
+    &--orange
+
+    &--orange
+        color: #e6550d
+
+    &--boolean, &--null, &--undefined
+        color: var(--syntax_atom)
+
+    &--bigint, &--date, &--green, &--number, &--regexp, &--symbol
+        color: var(--syntax_number)
+
+    &--index, &--key
+        color: var(--syntax_key)
+
+    &--prototype-key
+        color: #aaa
+
+    &--empty
+        font-style: oblique
+
+    &--purple, &--string
+        color: var(--syntax_string)
+
+    &--error, &--red
+        color: #e7040f
+
+    &--inspect
+        font: var(--mono_fonts)
+        overflow-x: auto
+        display: block
+        white-space: pre
+
+    &--error &--inspect
+        word-break: break-all
+        white-space: pre-wrap

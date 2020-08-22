@@ -1,0 +1,692 @@
+[
+	{
+		"firstName" : "Eliza",
+		"lastName" : "Guest",
+		"majorID" : "Software Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "eguest",
+		"discord" : "eguest#4130",
+		"googleDrive" : "eguest@gmail.com"
+	},
+	{
+		"firstName" : "Efa",
+		"lastName" : "Robins",
+		"majorID" : "Undeclared",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "erobins",
+		"discord" : "erobins#5659",
+		"googleDrive" : "erobins@gmail.com"
+	},
+	{
+		"firstName" : "Joe",
+		"lastName" : "Hayward",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "jhayward",
+		"discord" : "jhayward#7694",
+		"googleDrive" : "jhayward@gmail.com"
+	},
+	{
+		"firstName" : "Sahar",
+		"lastName" : "Calvert",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Actuarial Science",
+		"yearID" : "Freshman",
+		"github" : "scalvert",
+		"discord" : "scalvert#9040",
+		"googleDrive" : "scalvert@gmail.com"
+	},
+	{
+		"firstName" : "Rudi",
+		"lastName" : "Bloom",
+		"majorID" : "Electrical Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "rbloom",
+		"discord" : "rbloom#9010",
+		"googleDrive" : "rbloom@gmail.com"
+	},
+	{
+		"firstName" : "Deen",
+		"lastName" : "Amos",
+		"majorID" : "Computer Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "damos",
+		"discord" : "damos#6813",
+		"googleDrive" : "damos@gmail.com"
+	},
+	{
+		"firstName" : "Jason",
+		"lastName" : "Thompson",
+		"majorID" : "Software Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "jthompson",
+		"discord" : "jthompson#6103",
+		"googleDrive" : "jthompson@gmail.com"
+	},
+	{
+		"firstName" : "Maggie",
+		"lastName" : "ODoherty",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Graphic Design",
+		"yearID" : "Freshman",
+		"github" : "modoherty",
+		"discord" : "modoherty#6897",
+		"googleDrive" : "modoherty@gmail.com"
+	},
+	{
+		"firstName" : "Aqeel",
+		"lastName" : "Webber",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "awebber",
+		"discord" : "awebber#2662",
+		"googleDrive" : "awebber@gmail.com"
+	},
+	{
+		"firstName" : "Mikael",
+		"lastName" : "Summers",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "msummers",
+		"discord" : "msummers#5002",
+		"googleDrive" : "msummers@gmail.com"
+	},
+	{
+		"firstName" : "TylerJay",
+		"lastName" : "Rodgers",
+		"majorID" : "Software Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "trodgers",
+		"discord" : "trodgers#3853",
+		"googleDrive" : "trodgers@gmail.com"
+	},
+	{
+		"firstName" : "Silas",
+		"lastName" : "Lynch",
+		"majorID" : "Chemical Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "slynch",
+		"discord" : "slynch#1949",
+		"googleDrive" : "slynch@gmail.com"
+	},
+	{
+		"firstName" : "Tony",
+		"lastName" : "Edge",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "tedge",
+		"discord" : "tedge#7583",
+		"googleDrive" : "tedge@gmail.com"
+	},
+	{
+		"firstName" : "Theia",
+		"lastName" : "Neale",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "tneale",
+		"discord" : "tneale#6202",
+		"googleDrive" : "tneale@gmail.com"
+	},
+	{
+		"firstName" : "Brittany",
+		"lastName" : "Barr",
+		"majorID" : "Software Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "bbarr",
+		"discord" : "bbarr#2564",
+		"googleDrive" : "bbarr@gmail.com"
+	},
+	{
+		"firstName" : "Abraham",
+		"lastName" : "Davies",
+		"majorID" : "Accounting",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "adavies",
+		"discord" : "adavies#4920",
+		"googleDrive" : "adavies@gmail.com"
+	},
+	{
+		"firstName" : "Lorenzo",
+		"lastName" : "Mccartney",
+		"majorID" : "Software Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "lmccartney",
+		"discord" : "lmccartney#9780",
+		"googleDrive" : "lmccartney@gmail.com"
+	},
+	{
+		"firstName" : "Athena",
+		"lastName" : "Weber",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "aweber",
+		"discord" : "aweber#6124",
+		"googleDrive" : "aweber@gmail.com"
+	},
+	{
+		"firstName" : "Osman",
+		"lastName" : "Wade",
+		"majorID" : "Software Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "owade",
+		"discord" : "owade#5483",
+		"googleDrive" : "owade@gmail.com"
+	},
+	{
+		"firstName" : "Zayyan",
+		"lastName" : "Ramsey",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "zramsey",
+		"discord" : "zramsey#8818",
+		"googleDrive" : "zramsey@gmail.com"
+	},
+	{
+		"firstName" : "Rajveer",
+		"lastName" : "Briggs",
+		"majorID" : "Software Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "rbriggs",
+		"discord" : "rbriggs#8426",
+		"googleDrive" : "rbriggs@gmail.com"
+	},
+	{
+		"firstName" : "Mathilde",
+		"lastName" : "Nolan",
+		"majorID" : "Software Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "mnolan",
+		"discord" : "mnolan#9772",
+		"googleDrive" : "mnolan@gmail.com"
+	},
+	{
+		"firstName" : "Jasmine",
+		"lastName" : "Frederick",
+		"majorID" : "Software Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "jfrederick",
+		"discord" : "jfrederick#0489",
+		"googleDrive" : "jfrederick@gmail.com"
+	},
+	{
+		"firstName" : "Bhavik",
+		"lastName" : "Elliott",
+		"majorID" : "Software Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "belliott",
+		"discord" : "belliott#9683",
+		"googleDrive" : "belliott@gmail.com"
+	},
+	{
+		"firstName" : "Mahi",
+		"lastName" : "Beech",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Freshman",
+		"github" : "mbeech",
+		"discord" : "mbeech#8136",
+		"googleDrive" : "mbeech@gmail.com"
+	},
+	{
+		"firstName" : "Stephen",
+		"lastName" : "Mcnamara",
+		"majorID" : "Computer Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Junior",
+		"github" : "smcnamara",
+		"discord" : "smcnamara#6963",
+		"googleDrive" : "smcnamara@gmail.com"
+	},
+	{
+		"firstName" : "Harvey",
+		"lastName" : "Leblanc",
+		"majorID" : "Software Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Junior",
+		"github" : "hleblanc",
+		"discord" : "hleblanc#3878",
+		"googleDrive" : "hleblanc@gmail.com"
+	},
+	{
+		"firstName" : "JohnJames",
+		"lastName" : "Wynn",
+		"majorID" : "Chemical Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Junior",
+		"github" : "jwynn",
+		"discord" : "jwynn#5164",
+		"googleDrive" : "jwynn@gmail.com"
+	},
+	{
+		"firstName" : "Arjan",
+		"lastName" : "Rodrigues",
+		"majorID" : "Computer Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Junior",
+		"github" : "arodrigues",
+		"discord" : "arodrigues#9821",
+		"googleDrive" : "arodrigues@gmail.com"
+	},
+	{
+		"firstName" : "Ellesha",
+		"lastName" : "Sosa",
+		"majorID" : "Architecture",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Junior",
+		"github" : "esosa",
+		"discord" : "esosa#3281",
+		"googleDrive" : "esosa@gmail.com"
+	},
+	{
+		"firstName" : "Stefan",
+		"lastName" : "Mosley",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Junior",
+		"github" : "smosley",
+		"discord" : "smosley#7057",
+		"googleDrive" : "smosley@gmail.com"
+	},
+	{
+		"firstName" : "LexiMai",
+		"lastName" : "Wormald",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Junior",
+		"github" : "lwormald",
+		"discord" : "lwormald#8414",
+		"googleDrive" : "lwormald@gmail.com"
+	},
+	{
+		"firstName" : "Colleen",
+		"lastName" : "Boyce",
+		"majorID" : "Software Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Junior",
+		"github" : "cboyce",
+		"discord" : "cboyce#4385",
+		"googleDrive" : "cboyce@gmail.com"
+	},
+	{
+		"firstName" : "Esther",
+		"lastName" : "Lyon",
+		"majorID" : "Chemical Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Junior",
+		"github" : "elyon",
+		"discord" : "elyon#1720",
+		"googleDrive" : "elyon@gmail.com"
+	},
+	{
+		"firstName" : "Myla",
+		"lastName" : "Zuniga",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Junior",
+		"github" : "mzuniga",
+		"discord" : "mzuniga#0537",
+		"googleDrive" : "mzuniga@gmail.com"
+	},
+	{
+		"firstName" : "Jax",
+		"lastName" : "Hughes",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Junior",
+		"github" : "jhughes",
+		"discord" : "jhughes#0404",
+		"googleDrive" : "jhughes@gmail.com"
+	},
+	{
+		"firstName" : "Anayah",
+		"lastName" : "Conway",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Masters",
+		"github" : "aconway",
+		"discord" : "aconway#4648",
+		"googleDrive" : "aconway@gmail.com"
+	},
+	{
+		"firstName" : "Maha",
+		"lastName" : "Fitzpatrick",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Masters",
+		"github" : "mfitzpatrick",
+		"discord" : "mfitzpatrick#9924",
+		"googleDrive" : "mfitzpatrick@gmail.com"
+	},
+	{
+		"firstName" : "Shirley",
+		"lastName" : "Bull",
+		"majorID" : "N/A",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "N/A",
+		"github" : "sbull",
+		"discord" : "sbull#6347",
+		"googleDrive" : "sbull@gmail.com"
+	},
+	{
+		"firstName" : "Emillie",
+		"lastName" : "Dodson",
+		"majorID" : "N/A",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "N/A",
+		"github" : "edodson",
+		"discord" : "edodson#3031",
+		"googleDrive" : "edodson@gmail.com"
+	},
+	{
+		"firstName" : "Albert",
+		"lastName" : "Best",
+		"majorID" : "N/A",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "N/A",
+		"github" : "abest",
+		"discord" : "abest#7088",
+		"googleDrive" : "abest@gmail.com"
+	},
+	{
+		"firstName" : "Lesley",
+		"lastName" : "Ridley",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "N/A",
+		"github" : "lridley",
+		"discord" : "lridley#8955",
+		"googleDrive" : "lridley@gmail.com"
+	},
+	{
+		"firstName" : "Elly",
+		"lastName" : "Pitts",
+		"majorID" : "N/A",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "N/A",
+		"github" : "epitts",
+		"discord" : "epitts#6316",
+		"googleDrive" : "epitts@gmail.com"
+	},
+	{
+		"firstName" : "Brady",
+		"lastName" : "Cundall",
+		"majorID" : "N/A",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "N/A",
+		"github" : "N/A",
+		"discord" : "N/A",
+		"googleDrive" : "N/A"
+	},
+	{
+		"firstName" : "Luisa",
+		"lastName" : "Ventura",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Senior",
+		"github" : "lventura",
+		"discord" : "lventura#1716",
+		"googleDrive" : "lventura@gmail.com"
+	},
+	{
+		"firstName" : "Isla",
+		"lastName" : "Colon",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Senior",
+		"github" : "icolon",
+		"discord" : "icolon#6085",
+		"googleDrive" : "icolon@gmail.com"
+	},
+	{
+		"firstName" : "Morris",
+		"lastName" : "Cisneros",
+		"majorID" : "Computer Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Senior",
+		"github" : "mcisneros",
+		"discord" : "mcisneros#8001",
+		"googleDrive" : "mcisneros@gmail.com"
+	},
+	{
+		"firstName" : "Maleeha",
+		"lastName" : "Hayward",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Senior",
+		"github" : "mhayward",
+		"discord" : "mhayward#9234",
+		"googleDrive" : "mhayward@gmail.com"
+	},
+	{
+		"firstName" : "Kendall",
+		"lastName" : "Sims",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Senior",
+		"github" : "ksims",
+		"discord" : "ksims#1951",
+		"googleDrive" : "ksims@gmail.com"
+	},
+	{
+		"firstName" : "Uzair",
+		"lastName" : "Nixon",
+		"majorID" : "Software Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Sophomore",
+		"github" : "unixon",
+		"discord" : "unixon#9318",
+		"googleDrive" : "unixon@gmail.com"
+	},
+	{
+		"firstName" : "Sommer",
+		"lastName" : "Fulton",
+		"majorID" : "Biological Systems Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Sophomore",
+		"github" : "sfulton",
+		"discord" : "sfulton#1645",
+		"googleDrive" : "sfulton@gmail.com"
+	},
+	{
+		"firstName" : "Kelsea",
+		"lastName" : "Monaghan",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Sophomore",
+		"github" : "kmonaghan",
+		"discord" : "kmonaghan#7864",
+		"googleDrive" : "kmonaghan@gmail.com"
+	},
+	{
+		"firstName" : "Talha",
+		"lastName" : "Fowler",
+		"majorID" : "Software Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Sophomore",
+		"github" : "tfowler",
+		"discord" : "tfowler#7696",
+		"googleDrive" : "tfowler@gmail.com"
+	},
+	{
+		"firstName" : "Waleed",
+		"lastName" : "Milner",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Sophomore",
+		"github" : "wmilner",
+		"discord" : "wmilner#2849",
+		"googleDrive" : "wmilner@gmail.com"
+	},
+	{
+		"firstName" : "Korben",
+		"lastName" : "Tanner",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Sophomore",
+		"github" : "ktanner",
+		"discord" : "ktanner#2445",
+		"googleDrive" : "ktanner@gmail.com"
+	},
+	{
+		"firstName" : "Rayhaan",
+		"lastName" : "Ferrell",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Music",
+		"yearID" : "Sophomore",
+		"github" : "rferrell",
+		"discord" : "rferrell#5035",
+		"googleDrive" : "rferrell@gmail.com"
+	},
+	{
+		"firstName" : "Izabel",
+		"lastName" : "Landry",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Mathematics",
+		"yearID" : "Sophomore",
+		"github" : "ilandry",
+		"discord" : "ilandry#1644",
+		"googleDrive" : "ilandry@gmail.com"
+	},
+	{
+		"firstName" : "Rikki",
+		"lastName" : "OReilly",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Sophomore",
+		"github" : "roreilly",
+		"discord" : "roreilly#7130",
+		"googleDrive" : "roreilly@gmail.com"
+	},
+	{
+		"firstName" : "Daniella",
+		"lastName" : "Hudson",
+		"majorID" : "Software Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Sophomore",
+		"github" : "dhudson",
+		"discord" : "dhudson#1422",
+		"googleDrive" : "dhudson@gmail.com"
+	},
+	{
+		"firstName" : "Siyana",
+		"lastName" : "Freeman",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Sophomore",
+		"github" : "sfreeman",
+		"discord" : "sfreeman#3071",
+		"googleDrive" : "sfreeman@gmail.com"
+	},
+	{
+		"firstName" : "RileyJay",
+		"lastName" : "Villa",
+		"majorID" : "Software Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Sophomore",
+		"github" : "rvilla",
+		"discord" : "rvilla#0159",
+		"googleDrive" : "rvilla@gmail.com"
+	},
+	{
+		"firstName" : "Cassidy",
+		"lastName" : "Proctor",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Sophomore",
+		"github" : "cproctor",
+		"discord" : "cproctor#1978",
+		"googleDrive" : "cproctor@gmail.com"
+	},
+	{
+		"firstName" : "Gordon",
+		"lastName" : "Whittle",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Sophomore",
+		"github" : "gwhittle",
+		"discord" : "gwhittle#0640",
+		"googleDrive" : "gwhittle@gmail.com"
+	},
+	{
+		"firstName" : "Clinton",
+		"lastName" : "Roche",
+		"majorID" : "Graphic Design",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Sophomore",
+		"github" : "croche",
+		"discord" : "croche#5099",
+		"googleDrive" : "croche@gmail.com"
+	},
+	{
+		"firstName" : "Bjorn",
+		"lastName" : "Martin",
+		"majorID" : "Software Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Sophomore",
+		"github" : "bmartin",
+		"discord" : "bmartin#0214",
+		"googleDrive" : "bmartin@gmail.com"
+	},
+	{
+		"firstName" : "Harper",
+		"lastName" : "Huff",
+		"majorID" : "Software Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Sophomore",
+		"github" : "hhuff",
+		"discord" : "hhuff#7721",
+		"googleDrive" : "hhuff@gmail.com"
+	},
+	{
+		"firstName" : "Karol",
+		"lastName" : "Stamp",
+		"majorID" : "Marketing",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Sophomore",
+		"github" : "kstamp",
+		"discord" : "kstamp#6507",
+		"googleDrive" : "kstamp@gmail.com"
+	},
+	{
+		"firstName" : "Kerys",
+		"lastName" : "Wang",
+		"majorID" : "Software Engineering",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Sophomore",
+		"github" : "kwang",
+		"discord" : "kwang#9301",
+		"googleDrive" : "kwang@gmail.com"
+	},
+	{
+		"firstName" : "Carlie",
+		"lastName" : "Brady",
+		"majorID" : "Computer Science",
+		"doubleMajorID" : "Undeclared",
+		"yearID" : "Sophomore",
+		"github" : "cbrady",
+		"discord" : "cbrady#7103",
+		"googleDrive" : "cbrady@gmail.com"
+	}
+]

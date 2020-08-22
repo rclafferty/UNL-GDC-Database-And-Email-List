@@ -1,0 +1,14 @@
+{
+  "name": "@d3/inline-labels",
+  "main": "b79eb50ffccee0c2@70.js",
+  "version": "70.0.0",
+  "homepage": "https://observablehq.com/@d3/inline-labels",
+  "author": {
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

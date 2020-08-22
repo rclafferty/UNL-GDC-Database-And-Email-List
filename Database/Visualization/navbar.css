@@ -1,0 +1,15 @@
+.navbar {
+  width: 80%;
+  margin: 0 10%;
+  margin-bottom: 3rem;
+  padding: 0.5rem;
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(5, 25%);
+}
+.navbar p a {
+  color: blue;
+}
+.navbar p a:visited {
+  color: blue;
+}
